@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Punto
+comment1.params=
+comment1.target=Punto()
+comment2.params=parametro1\ parametro2
+comment2.target=Punto(int,\ int)
+comment3.params=
+comment3.target=void\ muestra()
+numComments=4

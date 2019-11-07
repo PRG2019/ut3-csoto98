@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Circulo
+comment0.text=\r\n\ \r\n\ \r\n\ @author\ Charlie\ Soto\r\n\ @version\ 19/10/2018\r\n
+comment1.params=
+comment1.target=Circulo()
+comment2.params=parametro1\ parametro2
+comment2.target=Circulo(Punto,\ double)
+comment3.params=
+comment3.target=void\ muestra()
+comment4.params=
+comment4.target=void\ area()
+numComments=5
